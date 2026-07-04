@@ -1,0 +1,6 @@
+{
+  "name": "Emergency Response System",
+  "description": "A mobile-first emergency response application providing SOS triggers, first aid instructions, and emergency contact management.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
